@@ -1,0 +1,2 @@
+# RCNN-Based-Cryptocurrency-Price-Prediction
+Blockchain technology is becoming increasingly popular. The most popular application of this technology is cryptocurrencies, which have shown a massive rise in their popularity and market capitalization in recent years. The crypto market is less stable than traditional commodity markets. It can be affected by many technical, sentimental, and legal factors, so it is highly volatile, uncertain, and unpredictable. I built an RCNN-based hybrid model to predict the daily price variation of Bitcoin and 04 more altcoins.
